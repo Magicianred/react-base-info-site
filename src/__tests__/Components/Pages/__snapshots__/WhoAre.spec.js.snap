@@ -1,0 +1,1134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Show the Who Are page Snapshots Matches the snapshot (with default params) 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-8"
+      >
+        <div
+          className="page whoare jumbotron"
+        >
+          <h2>
+            Who Are
+          </h2>
+          <p>
+            This is the who are page
+          </p>
+          <hr />
+          <p>
+            Nunc vitae gravida sem. Mauris erat velit, dapibus sit amet mi et, scelerisque tristique lorem. Quisque bibendum ligula et augue rhoncus hendrerit. Sed pharetra ligula quis leo accumsan eleifend. Pellentesque iaculis iaculis odio lobortis fermentum. Integer nec tincidunt odio, ornare aliquet eros. Nam vestibulum suscipit mauris, a consequat augue bibendum eu. Aenean viverra efficitur neque, sagittis mollis neque imperdiet vitae. Ut consectetur tristique risus, ut sodales nisi feugiat vel. Quisque tincidunt convallis consequat. Fusce malesuada sem et tortor fringilla lacinia. Nam elementum ligula vel luctus consectetur. Suspendisse sit amet egestas purus, vitae tristique dui. Sed convallis metus ac finibus sagittis. In nulla neque, facilisis in ex nec, pulvinar lobortis augue.
+          </p>
+          <div
+            className="list-group"
+            onKeyDown={[Function]}
+          >
+            <button
+              className="list-group-item list-group-item-action"
+              data-rb-event-key={null}
+              disabled={false}
+              onClick={[Function]}
+            >
+              Mario
+               
+              Rossi
+               
+              <span
+                className="badge badge-secondary"
+              >
+                show details
+              </span>
+            </button>
+            <button
+              className="list-group-item list-group-item-action"
+              data-rb-event-key={null}
+              disabled={false}
+              onClick={[Function]}
+            >
+              Maria
+               
+              Verdi
+               
+              <span
+                className="badge badge-secondary"
+              >
+                show details
+              </span>
+            </button>
+            <button
+              className="list-group-item list-group-item-action"
+              data-rb-event-key={null}
+              disabled={false}
+              onClick={[Function]}
+            >
+              Giovanni
+               
+              Giallo
+               
+              <span
+                className="badge badge-secondary"
+              >
+                show details
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="person card"
+          style={
+            Object {
+              "margin": "20px",
+              "width": "18rem",
+            }
+          }
+        >
+          <img
+            className="card-img-top"
+            src="http://placebeard.it/g/200/200"
+            style={
+              Object {
+                "align": "center",
+                "height": "200px",
+                "padding": "20px",
+                "width": "200px",
+              }
+            }
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="p_completename card-title h5"
+            >
+              Mario
+               
+              Rossi
+            </div>
+            <p
+              className="p_shortbio card-text"
+            >
+              orem ipsum dolor sit amet, consectetur adipiscing elit. 
+            </p>
+            <button
+              className="p_email btn btn-primary"
+              disabled={false}
+              type="button"
+            >
+              mariorossi@testemai.abc
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="block_file"
+  >
+    <span
+      className="block_file_name"
+    >
+      file: /data/home_messages.json
+    </span>
+    <pre
+      style={
+        Object {
+          "MozBoxSizing": "border-box",
+          "MozHyphens": "none",
+          "MozTabSize": "4",
+          "OTabSize": "4",
+          "WebkitBoxSizing": "border-box",
+          "WebkitHyphens": "none",
+          "background": "none",
+          "backgroundColor": "#fdfdfd",
+          "boxSizing": "border-box",
+          "color": "black",
+          "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+          "hyphens": "none",
+          "lineHeight": "1.5",
+          "margin": ".5em 0",
+          "marginBottom": "1em",
+          "msHyphens": "none",
+          "overflow": "visible",
+          "padding": "0",
+          "position": "relative",
+          "tabSize": "4",
+          "textAlign": "left",
+          "whiteSpace": "pre",
+          "wordBreak": "normal",
+          "wordSpacing": "normal",
+          "wordWrap": "normal",
+        }
+      }
+    >
+      <code
+        style={
+          Object {
+            "MozHyphens": "none",
+            "MozTabSize": "4",
+            "OTabSize": "4",
+            "WebkitHyphens": "none",
+            "background": "none",
+            "color": "black",
+            "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+            "hyphens": "none",
+            "lineHeight": "1.5",
+            "msHyphens": "none",
+            "tabSize": "4",
+            "textAlign": "left",
+            "whiteSpace": "pre",
+            "wordBreak": "normal",
+            "wordSpacing": "normal",
+            "wordWrap": "normal",
+          }
+        }
+      >
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          [
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          {
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "id"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          1
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "name"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Mario"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "surname"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Rossi"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "shortbio"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "orem ipsum dolor sit amet, consectetur adipiscing elit. "
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "email"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "mariorossi@testemai.abc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "profilesrc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "http://placebeard.it/g/200/200"
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          }
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          {
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "id"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          2
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "name"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Maria"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "surname"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Verdi"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "shortbio"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla."
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "email"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "mariorossi@testemai.abc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "profilesrc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "https://imgplaceholder.com/200x200/cccccc/757575/fa-android"
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          }
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          {
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "id"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          3
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "name"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Giovanni"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "surname"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Giallo"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "shortbio"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla. Morbi massa dui, tempor id luctus ac, maximus a orci."
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "email"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "mariorossi@testemai.abc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ,
+        </span>
+        
+    
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#c92c2c",
+            }
+          }
+        >
+          "profilesrc"
+        </span>
+        <span
+          className="token"
+          style={
+            Object {
+              "background": "rgba(255, 255, 255, 0.5)",
+              "color": "#a67f59",
+            }
+          }
+        >
+          :
+        </span>
+         
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#2f9c0a",
+            }
+          }
+        >
+          "https://imgplaceholder.com/200x200/cccccc/757575/glyphicon-user"
+        </span>
+        
+  
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          }
+        </span>
+        
+
+        <span
+          className="token"
+          style={
+            Object {
+              "color": "#5F6364",
+            }
+          }
+        >
+          ]
+        </span>
+      </code>
+    </pre>
+  </div>
+  <header
+    className="partial about menu"
+  >
+    <nav
+      className="justify-content-center navbar navbar-expand navbar-tabs"
+      fill="true"
+    >
+      <button
+        aria-controls="basic-navbar-nav"
+        aria-label="Toggle navigation"
+        className="navbar-toggler collapsed"
+        onClick={[Function]}
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        aria-expanded={null}
+        className="navbar-collapse collapse"
+        id="basic-navbar-nav"
+      >
+        <div
+          className="mr-auto navbar-nav"
+          onKeyDown={[Function]}
+        >
+          <a
+            className="nav-link"
+            data-rb-event-key="/#/about"
+            href="/#/about"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            About Us
+          </a>
+          <a
+            className="nav-link"
+            data-rb-event-key="/#/about/whoare"
+            href="/#/about/whoare"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            Who Are
+          </a>
+          <a
+            className="nav-link"
+            data-rb-event-key="/#/about/whereare"
+            href="/#/about/whereare"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            Where Are
+          </a>
+        </div>
+      </div>
+    </nav>
+  </header>
+</div>
+`;

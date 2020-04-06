@@ -1,0 +1,29 @@
+[
+    { 
+        "id": 1, 
+        "title": "Welcome to react-base-info-site!", 
+        "text": "<p>This is a Demo webapp meant to show you this digital product.</p>", 
+        "imagesrc": "https://picsum.photos/400/200" ,
+        "link": "https://magicianred.altervista.org/gigs/react-base-info-site/"
+    },
+    { 
+        "id": 2, 
+        "title": "Released php-base-info-site", 
+        "text": "This is a Demo webapp meant to show you this digital product. It is realized in <b>PHP</b>, <b>BladeOne</b> as <i>View HTML Engine</i>, <b>jQuery</b> for validate form and <b>Bootstrap</b> for CSS rules.", 
+        "imagesrc": "https://placeimg.com/400/200/grayscale",
+        "link": "https://magicianred.altervista.org/gigs/php-base-info-site/"
+    },
+    { 
+        "id": 3, 
+        "title": "Lorem ipsum dolor 3", 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla.", 
+        "imagesrc": "https://placeimg.com/400/200/tech" 
+    },
+    { 
+        "id": 4, 
+        "title": "Lorem ipsum dolor 4", 
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce nisl lacus, lobortis vel nulla ut, bibendum suscipit magna. Phasellus efficitur risus et ante sodales fringilla.", 
+        "imagesrc": "https://placeimg.com/400/200/tech" ,
+        "link": "#"
+    }
+]

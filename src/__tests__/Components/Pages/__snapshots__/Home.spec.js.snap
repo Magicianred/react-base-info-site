@@ -1,0 +1,146 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Show a home page Snapshots Matches the snapshot (with default title) 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="page home jumbotron"
+  >
+    <h2>
+      Home page
+    </h2>
+    <p>
+      This is the home page
+    </p>
+    <hr />
+    <hr />
+  </div>
+  <div
+    className="block_file"
+  >
+    <span
+      className="block_file_name"
+    >
+      file: /data/pages/home.md
+    </span>
+    <pre
+      style={
+        Object {
+          "MozBoxSizing": "border-box",
+          "MozHyphens": "none",
+          "MozTabSize": "4",
+          "OTabSize": "4",
+          "WebkitBoxSizing": "border-box",
+          "WebkitHyphens": "none",
+          "background": "none",
+          "backgroundColor": "#fdfdfd",
+          "boxSizing": "border-box",
+          "color": "black",
+          "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+          "hyphens": "none",
+          "lineHeight": "1.5",
+          "margin": ".5em 0",
+          "marginBottom": "1em",
+          "msHyphens": "none",
+          "overflow": "visible",
+          "padding": "0",
+          "position": "relative",
+          "tabSize": "4",
+          "textAlign": "left",
+          "whiteSpace": "pre",
+          "wordBreak": "normal",
+          "wordSpacing": "normal",
+          "wordWrap": "normal",
+        }
+      }
+    >
+      <code
+        style={
+          Object {
+            "MozHyphens": "none",
+            "MozTabSize": "4",
+            "OTabSize": "4",
+            "WebkitHyphens": "none",
+            "background": "none",
+            "color": "black",
+            "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+            "hyphens": "none",
+            "lineHeight": "1.5",
+            "msHyphens": "none",
+            "tabSize": "4",
+            "textAlign": "left",
+            "whiteSpace": "pre",
+            "wordBreak": "normal",
+            "wordSpacing": "normal",
+            "wordWrap": "normal",
+          }
+        }
+      />
+    </pre>
+  </div>
+  <div
+    className="block_file"
+  >
+    <span
+      className="block_file_name"
+    >
+      file: /data/home_messages.json
+    </span>
+    <pre
+      style={
+        Object {
+          "MozBoxSizing": "border-box",
+          "MozHyphens": "none",
+          "MozTabSize": "4",
+          "OTabSize": "4",
+          "WebkitBoxSizing": "border-box",
+          "WebkitHyphens": "none",
+          "background": "none",
+          "backgroundColor": "#fdfdfd",
+          "boxSizing": "border-box",
+          "color": "black",
+          "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+          "hyphens": "none",
+          "lineHeight": "1.5",
+          "margin": ".5em 0",
+          "marginBottom": "1em",
+          "msHyphens": "none",
+          "overflow": "visible",
+          "padding": "0",
+          "position": "relative",
+          "tabSize": "4",
+          "textAlign": "left",
+          "whiteSpace": "pre",
+          "wordBreak": "normal",
+          "wordSpacing": "normal",
+          "wordWrap": "normal",
+        }
+      }
+    >
+      <code
+        style={
+          Object {
+            "MozHyphens": "none",
+            "MozTabSize": "4",
+            "OTabSize": "4",
+            "WebkitHyphens": "none",
+            "background": "none",
+            "color": "black",
+            "fontFamily": "Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace",
+            "hyphens": "none",
+            "lineHeight": "1.5",
+            "msHyphens": "none",
+            "tabSize": "4",
+            "textAlign": "left",
+            "whiteSpace": "pre",
+            "wordBreak": "normal",
+            "wordSpacing": "normal",
+            "wordWrap": "normal",
+          }
+        }
+      />
+    </pre>
+  </div>
+</div>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Show the Footer site Snapshots Matches the snapshot (with default params) 1`] = `
+<footer
+  className="partial footer"
+>
+  <p>
+    This is the footer of 
+    <b>
+      react-simple-app
+    </b>
+     (version 
+    <i>
+      1.0.0
+    </i>
+    )
+  </p>
+  <p>
+    Realized by 
+    <a
+      href="https://magicianred.github.io/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      magicianred
+    </a>
+  </p>
+</footer>
+`;
